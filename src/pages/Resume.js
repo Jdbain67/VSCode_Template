@@ -10,7 +10,7 @@ const Resume = () => {
       <div>
         <div className="table">
           <ClipboardListIcon className="h-5 w-5 mr-4 text-yellow_vs" />{" "}
-          <code className="table-cell text-[#e6f1ff] text-3xl mt-5 whitespace-nowrap">
+          <code className="table-cell text-[#092447] text-3xl mt-5 whitespace-nowrap">
             Resume
           </code>
           <div className="table-cell border-b border-b-[#e6f1ff] border-opacity-25 w-full"></div>
